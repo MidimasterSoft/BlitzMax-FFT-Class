@@ -16,7 +16,7 @@
 
 
 SuperStrict 
-Include "NewFFT_Class.bmx"
+Include "mima_FFT_Class.bmx"
 Graphics 800,600
 
 Const SAMPLE_RATE:Int = 48000
